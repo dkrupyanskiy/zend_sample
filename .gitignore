@@ -1,0 +1,10 @@
+._*
+.~lock.*
+.buildpath
+.idea
+.project
+/vendor
+tests/_output/*
+.env
+/*.sql
+package-lock.json
